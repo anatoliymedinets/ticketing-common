@@ -3,5 +3,3 @@
 3. $ npm i -D typescript del-cli
 
 npm version patch 
-
-npm run pub
